@@ -1,0 +1,28 @@
+a {background-color:blanchedalmond;}
+p.test{
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.TextShadow{
+	text-shadow: 2px 2px 2px grey;
+}
+
+.PictureShadow{
+	box-shadow: 10px 10px 5px grey;
+}
+
+section{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg");
+}
+
+.bigheader{
+	font-size: 80px;
+}
+.middleheader{
+	font-size: 30px;
+}
+.smallheader{
+	font-size: 10px;
+}
